@@ -1,4 +1,4 @@
-import { data } from "./data/data.js"
+import { data } from "data/data.js"
 
 const brand = document.querySelector('.brand')
 const categoryList = document.querySelector('.categorylist')
